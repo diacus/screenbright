@@ -1,0 +1,19 @@
+SCREENBRIGHT (1) - Control the screen bright from command line
+==============================================================
+
+## SYNOPSIS
+
+`screenbright` inc
+
+`screenbright` dec
+
+`screenbright` clear
+
+## DESCRIPTION
+
+Small tool used to controll the bright of all the screens connected to the
+computer.
+
+## AUTHOR
+
+diacus.magnuz@gmail.com
